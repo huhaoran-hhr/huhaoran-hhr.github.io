@@ -1,0 +1,5 @@
+
+User-agent: *
+Allow: /
+
+Sitemap: https://huhaoran-hhr.github.io/sitemap.xml
